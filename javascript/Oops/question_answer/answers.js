@@ -52,7 +52,7 @@ function Employees(name,position,salary){
 
         console.log(" congrautation your salary is upgreated to " + this.salary )
     }
-    
+
  }
 
 //  let emp1 = new Employees("akshay", "manager" , 1338450);
@@ -87,9 +87,8 @@ console.log(book2)
 
 
 
-//  space complexity 
-// sare quesiton ka  time com aur space 
+//  space complexity
+// sare quesiton ka  time com aur space
 // revision ye hafte
 
-//  prototype aur inheritance 
-
+//  prototype aur inheritance
